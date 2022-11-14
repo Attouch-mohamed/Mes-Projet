@@ -1,18 +1,18 @@
 {
 "AdmobId":"pub-5407488668219485",
-"IronSourceAppKey":"116c9c355",
+"IronSourceAppKey":"14f7eda41",
 "OpenAdmob":"ca-app-pub-3940256099942544/3419835294",
 "cpaGiftLink":"",
 "MainUnits":{
 	"admobInterstitial":"ca-app-pub-3940256099942544/1033173712",
 	"applovinInterstitial":"70f0906f2b6dbc50",
 	"facebookButton":"ironsource",
-	"whatsappButton":"admob",
-	"instaButton":"admob",
-	"twitterButton":"applovin",
+	"whatsappButton":"ironsource",
+	"instaButton":"ironsource",
+	"twitterButton":"ironsource",
 	"tiktokButton":"ironsource",
-	"likeeButton":"applovin",
-	"gelleryButton":"admob",
+	"likeeButton":"ironsource",
+	"gelleryButton":"ironsource",
 	"aboutButton":"ironsource"
 },
 "AdUnits" : [ 
@@ -25,8 +25,8 @@
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "ironsource",
-      "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"gallery",
@@ -37,8 +37,8 @@
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "ironsource",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"howto",
@@ -49,8 +49,8 @@
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
       "bannerAds" : "ironsource",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"about",
@@ -60,9 +60,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "bannerAds" : "ironsource",
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"facebook",
@@ -72,9 +72,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
+      "bannerAds" : "ironsource",
       "nativeAds" : "ironsource",
-      "intersAds" : "admob"
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"whatsapp",
@@ -84,9 +84,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "ironsource",
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"help",
@@ -96,9 +96,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "ironsource",
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"likee",
@@ -108,9 +108,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "ironsource",
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"tiktok",
@@ -120,9 +120,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "bannerAds" : "ironsource",
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"twitter",
@@ -132,9 +132,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "admob",
-      "intersAds" : "admob"
+      "bannerAds" : "ironsource",
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     },
 {
       "adsActivity":"insta",
@@ -144,9 +144,9 @@
       "BannerApplovin":"7edae74f5e435c67",
       "NativeApplovin":"d7df0678e853d2f5",
       "InterstitialApplovin":"70f0906f2b6dbc50",
-      "bannerAds" : "admob",
-      "nativeAds" : "applovin",
-      "intersAds" : "admob"
+      "bannerAds" : "ironsource",
+      "nativeAds" : "ironsource",
+      "intersAds" : "ironsource"
     }
 ]
 }
