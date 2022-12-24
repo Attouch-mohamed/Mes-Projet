@@ -1,31 +1,31 @@
 {
-"AdmobId":"pub-5407488668219485",
+"AdmobId":"pub-9901252096048922",
 "IronSourceAppKey":"14f7eda41",
-"OpenAdmob":"ca-app-pub-3940256099942544/3419835294",
+"OpenAdmob":"ca-app-pub-9901252096048922/5780347627",
 "cpaGiftLink":"",
 "MainUnits":{
-	"admobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+	"admobInterstitial":"ca-app-pub-9901252096048922/8707847570",
 	"applovinInterstitial":"8b618524f95b47fb",
-	"facebookButton":"applovin",
+	"facebookButton":"admob",
 	"whatsappButton":"applovin",
-	"instaButton":"applovin",
+	"instaButton":"admob",
 	"twitterButton":"applovin",
-	"tiktokButton":"applovin",
+	"tiktokButton":"admob",
 	"likeeButton":"applovin",
-	"gelleryButton":"applovin",
+	"gelleryButton":"admob",
 	"aboutButton":"applovin"
 },
 "AdUnits" : [ 
     {
       "adsActivity":"main",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
-      "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+      "NativeAdmob":"ca-app-pub-9901252096048922/4658837643",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
       "BannerApplovin":"7cbcbc18ce2c84d4",
       "NativeApplovin":"427980a6eb4073f4",
       "InterstitialApplovin":"8b618524f95b47fb",
       "bannerAds" : "applovin",
-      "nativeAds" : "applovin",
+      "nativeAds" : "admob",
       "intersAds" : "applovin"
     },
 {
@@ -67,13 +67,13 @@
 {
       "adsActivity":"facebook",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
-      "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+      "NativeAdmob":"ca-app-pub-9901252096048922/4658837643",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173700",
       "BannerApplovin":"7cbcbc18ce2c84d4",
       "NativeApplovin":"427980a6eb4073f4",
       "InterstitialApplovin":"8b618524f95b47fb",
       "bannerAds" : "applovin",
-      "nativeAds" : "applovin",
+      "nativeAds" : "admob",
       "intersAds" : "applovin"
     },
 {
@@ -103,13 +103,13 @@
 {
       "adsActivity":"likee",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
-      "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+      "NativeAdmob":"ca-app-pub-9901252096048922/4658837643",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
       "BannerApplovin":"7cbcbc18ce2c84d4",
       "NativeApplovin":"427980a6eb4073f4",
       "InterstitialApplovin":"8b618524f95b47fb",
       "bannerAds" : "applovin",
-      "nativeAds" : "applovin",
+      "nativeAds" : "admob",
       "intersAds" : "applovin"
     },
 {
@@ -127,13 +127,13 @@
 {
       "adsActivity":"twitter",
       "BannerAdmob":"ca-app-pub-3940256099942544/6300978111",
-      "NativeAdmob":"ca-app-pub-3940256099942544/2247696110",
+      "NativeAdmob":"ca-app-pub-9901252096048922/4658837643",
       "InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
       "BannerApplovin":"7cbcbc18ce2c84d4",
       "NativeApplovin":"427980a6eb4073f4",
       "InterstitialApplovin":"8b618524f95b47fb",
       "bannerAds" : "applovin",
-      "nativeAds" : "applovin",
+      "nativeAds" : "admob",
       "intersAds" : "applovin"
     },
 {
