@@ -6,13 +6,13 @@
 "MainUnits":{
 	"admobInterstitial":"ca-app-pub-9901252096048922/8707847570",
 	"applovinInterstitial":"8b618524f95b47fb",
-	"facebookButton":"admob",
+	"facebookButton":"applovin",
 	"whatsappButton":"applovin",
-	"instaButton":"admob",
+	"instaButton":"applovin",
 	"twitterButton":"applovin",
-	"tiktokButton":"admob",
+	"tiktokButton":"applovin",
 	"likeeButton":"applovin",
-	"gelleryButton":"admob",
+	"gelleryButton":"applovin",
 	"aboutButton":"applovin"
 },
 "AdUnits" : [ 
@@ -25,7 +25,7 @@
       "NativeApplovin":"427980a6eb4073f4",
       "InterstitialApplovin":"8b618524f95b47fb",
       "bannerAds" : "applovin",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "applovin"
     },
 {
@@ -73,7 +73,7 @@
       "NativeApplovin":"427980a6eb4073f4",
       "InterstitialApplovin":"8b618524f95b47fb",
       "bannerAds" : "applovin",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "applovin"
     },
 {
@@ -109,7 +109,7 @@
       "NativeApplovin":"427980a6eb4073f4",
       "InterstitialApplovin":"8b618524f95b47fb",
       "bannerAds" : "applovin",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "applovin"
     },
 {
@@ -133,7 +133,7 @@
       "NativeApplovin":"427980a6eb4073f4",
       "InterstitialApplovin":"8b618524f95b47fb",
       "bannerAds" : "applovin",
-      "nativeAds" : "admob",
+      "nativeAds" : "applovin",
       "intersAds" : "applovin"
     },
 {
